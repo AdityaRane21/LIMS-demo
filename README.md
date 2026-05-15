@@ -1,2 +1,0 @@
-# LIMS-demo
-lims elemech 
